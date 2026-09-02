@@ -1,4 +1,3 @@
-$content = @'
 <div align="center">
 
 <br/>
@@ -409,7 +408,3 @@ This project is licensed under the **MIT License**.
 ⭐ **If this project helped you, please give it a star!** ⭐
 
 </div>
-'@
-
-Set-Content -Path "c:\Users\lenovo\OneDrive\Desktop\predictive-healthcare\README.md" -Value $content -Encoding UTF8
-
