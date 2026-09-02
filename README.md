@@ -1,9 +1,9 @@
-﻿<div align="center">
+<div align="center">
 
 <br/>
 
 <!-- Typing SVG banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=42&duration=3000&pause=500&color=2DD4B4&center=true&vCenter=true&width=700&lines=💊+VitalCheck;AI-Powered+Health+Risk+Prediction;Know+Your+Risk.+Act+Early." alt="VitalCheck" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=42&duration=3000&pause=500&color=2DD4B4&center=true&vCenter=true&width=700&lines=%F0%9F%92%8A+VitalCheck;AI-Powered+Health+Risk+Prediction;Know+Your+Risk.+Act+Early." alt="VitalCheck" />
 
 <br/>
 
